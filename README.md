@@ -98,10 +98,10 @@ Une alerte de budget (AWS Budgets) est configurée pour notifier en cas de dépa
 - [x] API CRUD (créer groupe, ajouter dépense)
 - [x] Lecture des dépenses
 - [x] Calcul des soldes
-- [ ] Authentification utilisateurs (Amazon Cognito)
-- [ ] Frontend web (S3 + CloudFront)
-- [ ] Infrastructure as Code (Terraform)
-- [ ] Tests automatisés
+- [x] Authentification utilisateurs (Amazon Cognito)
+- [x] Frontend web (S3 + CloudFront)
+- [x] Infrastructure as Code (Terraform)
+- [x] Tests automatisés
 
 ## 🛠️ Stack technique
 
